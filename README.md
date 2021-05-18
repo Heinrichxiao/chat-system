@@ -1,2 +1,2 @@
-# chat-system
+# Chat system
 A chat system
